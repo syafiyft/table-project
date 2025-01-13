@@ -1,4 +1,4 @@
-Heroku table-display: https://table-display-0598d7efd241.herokuapp.com/
+Hosted website: https://table-display-0598d7efd241.herokuapp.com/
 
 
 ## **What This Project Does**
