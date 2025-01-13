@@ -1,7 +1,4 @@
 
-### **README.md**
-
-
 ## **What This Project Does**
 
 1. Takes an input file (`Table_Input.csv`) containing numerical data.
